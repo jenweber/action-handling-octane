@@ -1,0 +1,10 @@
+.container, .button-form {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+body, button {
+  font-size: 30px;
+  font-family: sans-serif;
+}
