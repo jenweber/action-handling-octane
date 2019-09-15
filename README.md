@@ -1,7 +1,10 @@
 # action-handling
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This repository has code examples for "May I Ask a Question, Live!" presented at EmberCamp 2019!
+Look at the branches to see some Octane examples and our
+finished code.
+
+Slides are [here](https://docs.google.com/presentation/d/14alLkJIGeqcTZ3uo0G66N77NFI-ILbCsv6Nei5ihjX0/edit?usp=sharing).
 
 ## Prerequisites
 
